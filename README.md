@@ -65,7 +65,7 @@ Before you begin, ensure you have the following installed and configured:
     PROJECT_ID=Your Projectid
     PROJECT_NUMBER=your Project number
     SA_NAME=lab2-cr-service
-    SERVICE_ACCOUNT=lab2-cr-service@gen-lang-client-0756045557.iam.gserviceaccount.com
+    SERVICE_ACCOUNT=lab2-cr-service@Your Projectid.iam.gserviceaccount.com
     MODEL="gemini-2.5-flash"
     ```
 
